@@ -1,0 +1,15 @@
+filterBy:
+  - Plot: is not true
+  - Leisure: is not true
+  - Used: is not true
+  - Rental: is not true
+  - Withdrawn: is not true
+  - SaleStartedAt: 
+    - From: 2020-03-01
+    - To: 2021-09-22  
+  - MunicipalityName:
+    - "Grimstad"
+    - "Kristiansand"
+    - "Arendal"
+buffer: 
+  - UsableArea: 10    
